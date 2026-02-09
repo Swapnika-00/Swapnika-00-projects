@@ -1,5 +1,5 @@
 # Project Title
-**BrightCart: Maximizing Online Retail Performance**
+## **BrightCart: Maximizing Online Retail Performance**
 
 ---
 
