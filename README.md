@@ -15,20 +15,20 @@ BrightCart faces significant fluctuations in website traffic depending on the ti
 
 ## 3. Project Rationale
 For online retailers, understanding website traffic patterns and their sources is crucial for strategic marketing. By leveraging traffic insights, BrightCart can:
-•	Optimize campaign timing to maximize engagement
-•	Allocate marketing resources efficiently
-•	Personalize user experiences
-•	Increase conversions while reducing marketing costs
+-	Optimize campaign timing to maximize engagement
+-	Allocate marketing resources efficiently
+-	Personalize user experiences
+-	Increase conversions while reducing marketing costs
 The approach aligns with industry practices adopted by leaders like Amazon and Shopify.
 
 ---
 
 ## 4. Aims & Objectives
-•	Identify peak and low-traffic periods to optimize marketing schedules.
-•	Analyse traffic sources (organic, paid, social, email) to evaluate channel performance.
-•	Correlate traffic timing with conversion rates to refine promotional campaigns.
-•	Segment traffic by customer demographics and geography for targeted marketing.
-•	Provide actionable recommendations to enhance ROI and overall website performance.
+-	Identify peak and low-traffic periods to optimize marketing schedules.
+-	Analyse traffic sources (organic, paid, social, email) to evaluate channel performance.
+-	Correlate traffic timing with conversion rates to refine promotional campaigns.
+-	Segment traffic by customer demographics and geography for targeted marketing.
+-	Provide actionable recommendations to enhance ROI and overall website performance.
 
 ---
 
@@ -42,28 +42,26 @@ The approach aligns with industry practices adopted by leaders like Amazon and S
 ---
 
 ## 6. Tools & Technologies
-Explain **how and why** each tool was used.
-
 **Excel**
-•	Performed initial data inspection, validation, and cleaning.
-•	Created pivot tables and charts for analysis.
-•	Built dashboards and automated reporting using macros.
+-	Performed initial data inspection, validation, and cleaning.
+- Created pivot tables and charts for analysis.
+- Built dashboards and automated reporting using macros.
 Rationale: Excel was chosen for its simplicity, wide availability, and powerful data analysis and visualization capabilities.
 
 ---
 
 ## 7. Data Cleaning & Preparation
-•	Removed duplicate records.
-•	Handled missing values and ensured consistency in numeric and date formats.
-•	Created calculated metrics for analysis, such as conversion rates and session counts.
+-	Removed duplicate records.
+-	Handled missing values and ensured consistency in numeric and date formats.
+-	Created calculated metrics for analysis, such as conversion rates and session counts.
 
 ---
 
 ## 8. Analysis Performed
-•	Sales Trend Analysis: Identified periods of high and low engagement.
-•	Regional Performance Analysis: Compared conversions across states.
-•	Device Performance: Examined traffic and conversion by device type.
-•	Customer Behaviour Insights: Analysed patterns across time, day, and traffic sources.
+- Sales Trend Analysis: Identified periods of high and low engagement.
+-	Regional Performance Analysis: Compared conversions across states.
+-	Device Performance: Examined traffic and conversion by device type.
+-	Customer Behaviour Insights: Analysed patterns across time, day, and traffic sources.
 
 ---
 
@@ -72,25 +70,25 @@ Interactive dashboards visualise trends and insights. These are hosted on the po
 ---
 
 ## 10. Key Insights & Findings
-•	Conversions in New York are significantly lower than in other states.
-•	Most users access the website via mobile, but desktop users convert at higher rates.
-•	Traffic and conversions drop significantly on weekends.
-•	July and October have lower sessions and conversion rates compared to other months.
+-	Conversions in New York are significantly lower than in other states.
+-	Most users access the website via mobile, but desktop users convert at higher rates.
+-	Traffic and conversions drop significantly on weekends.
+-	July and October have lower sessions and conversion rates compared to other months.
 
 ---
 
 ## 11. Recommendations
-•	Conduct targeted market research in New York to improve conversion rates.
-•	Enhance mobile website optimization to increase mobile conversions.
-•	Run promotional campaigns in July and October to boost traffic and conversions.
-•	Increase social media advertising during weekends to reach inactive periods.
+-	Conduct targeted market research in New York to improve conversion rates.
+-	Enhance mobile website optimization to increase mobile conversions.
+-	Run promotional campaigns in July and October to boost traffic and conversions.
+-	Increase social media advertising during weekends to reach inactive periods.
 
 ---
 
 ## 12. Challenges & Learnings
-•	Managing data inconsistencies and missing values required careful cleaning.
-•	Designing clear, interactive dashboards for usability and actionable insights was challenging.
-•	Gained experience in translating raw data into business recommendations.
+-	Managing data inconsistencies and missing values required careful cleaning.
+-	Designing clear, interactive dashboards for usability and actionable insights was challenging.
+-	Gained experience in translating raw data into business recommendations.
 
 ---
 
