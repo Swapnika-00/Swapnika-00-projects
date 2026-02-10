@@ -1,6 +1,6 @@
 # **BrightCart: Maximizing Online Retail Performance**
 
-![Excel](https://img.shields.io/badge/Excel%20Data%20Handling-blue) 
+![Excel](https://img.shields.io/badge/Excel-Data%20Handling-blue) 
 
 ---
 
