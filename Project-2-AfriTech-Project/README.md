@@ -2,7 +2,6 @@
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-green) 
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
 
 ---
 
