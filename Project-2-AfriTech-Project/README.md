@@ -56,7 +56,6 @@ Social media strongly influences public perception. Monitoring it allows Afritec
 - Manage crises effectively  
 - Learn from trends for marketing and product improvements  
 
-> Example: Apple and Samsung actively track social media sentiment to maintain positive brand perception.
 
 ---
 
@@ -103,9 +102,7 @@ Social media strongly influences public perception. Monitoring it allows Afritec
 ---
 
 ## 9. Dashboards
-Interactive dashboards visualize trends and insights. (Screenshots in `/dashboards` folder)  
-
-![Dashboard Placeholder](images/dashboard.png)
+Interactive dashboards visualise trends and insights. These are hosted on the portfolio website for real-time access.
 
 ---
 
