@@ -106,12 +106,12 @@ Interactive dashboards visualise trends and insights. These are hosted on the po
 ---
 
 ## 10. Key Insights & Findings
-- Products purchased in 2023 decreased vs 2022 📉  
-- Smartwatch and tablet are least sold 📱⌚  
-- Over 50% of products purchased were recalled, mostly laptops 💻  
-- Engagement is similar across platforms; Facebook has the lowest 👍  
-- Crisis events spike multiple times yearly, with short-term corrective actions ⏱️  
-- 52% of crises remain unresolved ⚠️  
+- Products purchased in 2023 decreased vs 2022  
+- Smartwatch and tablet are least sold  
+- Over 50% of products purchased were recalled, mostly laptops   
+- Engagement is similar across platforms; Facebook has the lowest   
+- Crisis events spike multiple times yearly, with short-term corrective actions   
+- 52% of crises remain unresolved  
 
 ---
 
