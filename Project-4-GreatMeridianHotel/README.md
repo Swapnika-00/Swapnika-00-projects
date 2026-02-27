@@ -42,7 +42,7 @@ The hotel serves both Corporate and Leisure guests and generates revenue through
 
 ## 2. Business Problem Statement
 
-Despite stable occupancy, management lacked visibility into true revenue drivers across guest segments.
+Despite stable occupancy, management lacked visibility into true revenue drivers across guest segments.</br>
 Key Challenges:
 1.	No Segment-Level Profit Visibility
 Revenue was tracked, but not analyzed by guest type with ancillary services included.
@@ -57,7 +57,7 @@ Loyalty membership impact on revenue and repeat bookings was not evaluated.
 
 ## 3. Project Rationale
 
-Analysing of how seasonal demand influences room bookings and ancillary services (spa, dining, events) and which guest type (corporate or leisure) is most profitable. By examining the seasonality and revenue of each segment, GMH can make more data-driven decisions on pricing, marketing, and service offerings.
+Analysing of how seasonal demand influences room bookings and ancillary services (spa, dining, events) and which guest type (corporate or leisure) is most profitable. By examining the seasonality and revenue of each segment, GMH can make more data-driven decisions on pricing, marketing, and service offerings.</br>
 Top 5 Strategic Reasons for the Project:
 - Better Pricing Decisions: Identify where price adjustments will drive maximum revenue.
 - Improved Marketing ROI: Focus campaigns on guests that bring higher margins.
@@ -181,6 +181,7 @@ Learnings
 
 ## 13. Conclusion
 
-This project demonstrates how data analytics can move a hotel from seasonal pricing assumptions to evidence-based revenue optimization.
+This project demonstrates how data analytics can move a hotel from seasonal pricing assumptions to evidence-based revenue optimization.</br>
 By leveraging SQL for structured data preparation and Power BI for dynamic insights, the analysis provides actionable recommendations to improve revenue strategy, marketing efficiency, and long-term growth.
+
 ---
